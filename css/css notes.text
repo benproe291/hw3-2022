@@ -1,0 +1,9 @@
+/* Pseudo-Classes
+    Elements that are dynamically populated or dependent on a tree structure
+    ie. focus, :hover, first-type-of */
+
+a:hover{
+    border: 2px solid #0006CC
+}
+
+p:nth-child()
